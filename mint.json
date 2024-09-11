@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Custom Modifiers",
   "logo": {
-    "dark": "/Logo.png",
-    "light": "/Logo.png"
+    "dark": "/MainLogo.png",
+    "light": "/MainLogo.png"
   },
   "favicon": "/MainLogo.png",
   "colors": {
@@ -45,7 +45,12 @@
         "introduction"
       ]
     },
-
+    {
+      "group": "Scripts",
+      "pages": [
+        "custom modifiers"
+      ]
+    },
     {
       "group": "API Documentation",
       "pages": [
