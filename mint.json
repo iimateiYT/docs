@@ -25,9 +25,7 @@
     {
       "group": "Doors Custom Modifiers",
       "pages": [
-        "Documentations.md",
-        "Example.lua",
-        "Source.lua"
+        "Documentations.md"
       ]
     }
   ],
