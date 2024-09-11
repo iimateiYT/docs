@@ -5,51 +5,6 @@ description: 'Documentation on the functions for Custom Modifiers!'
 
 ![Image](https://mintlify.s3-us-west-1.amazonaws.com/kiwi-05288d30/Big%20Logo.png "Logo")
 
-### ModifierExists
-Checks if a modifier exists and returns true if it exists.
-
-<ParamField path="Modifier" type="String" required>
-  Checks if a modifier exists and returns true if it exists.
-</ParamField>
-
-```lua
-if CustomModifiers:ModifierExists("Example") then
-    print("Exists!")
-else
-    print("Doesn't Exist!")
-end
-```
-
-### CategoryExists
-Checks if a category exists and returns true if it exists.
-
-<ParamField path="Category" type="String" required>
-  Checks if a category exists and returns true if it exists.
-</ParamField>
-
-```lua
-if CustomModifiers:CategoryExists("Example Category") then
-    print("Exists!")
-else
-    print("Doesn't Exist!")
-end
-```
-
-### FloorExists
-<ParamField path="Floor" type="String" required>
-  Checks if a floor exists and returns true if it exists.
-</ParamField>
-
-
-```lua
-if CustomModifiers:FloorExists("Example Floor") then
-    print("Exists!")
-else
-    print("Doesn't Exist!")
-end
-```
-
-
 ### ToggleConnotations
 Helps you toggle connotations on or off. Useful for debugging.
 
