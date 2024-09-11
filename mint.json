@@ -12,8 +12,8 @@
     "dark": "#de5858"
   },
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Github",
+    "url": "https://github.com/iimateiYT/Custom-Modifiers/tree/main"
   },
   "navigation": [
     {
