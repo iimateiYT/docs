@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Custom Modifiers",
   "logo": {
-    "dark": "/MainLogo.png",
-    "light": "/MainLogo.png"
+    "dark": "/Logo.png",
+    "light": "/Logo.png"
   },
-  "favicon": "/MainLogo.png",
+  "favicon": "/Logo.png",
   "colors": {
     "primary": "#de5858",
     "light": "#fc6060",
