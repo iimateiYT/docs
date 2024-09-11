@@ -10,10 +10,6 @@
     "primary": "#de5858",
     "light": "#fc6060",
     "dark": "#de5858",
-    "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
-    }
   },
   "topbarCtaButton": {
     "name": "Dashboard",
@@ -23,13 +19,6 @@
     {
       "name": "API Reference",
       "url": "api-reference"
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
     }
   ],
   "navigation": [
