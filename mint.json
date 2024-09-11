@@ -27,7 +27,8 @@
       "pages": [
         "documentations",
         "example",
-        "source"
+        "source",
+        "information"
       ]
     }
   ],
