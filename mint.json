@@ -25,7 +25,10 @@
     {
       "group": "Doors Custom Modifiers",
       "pages": [
-        "documentations",
+		"started",
+        "functions",
+        "checks",
+        "values",
         "example",
         "source",
         "information"
