@@ -23,9 +23,11 @@
       ]
     },
     {
-      "group": "Scripts",
+      "group": "Doors Custom Modifiers",
       "pages": [
-        "custom-modifiers"
+        "Documentations.md"
+        "Example.lua",
+        "Source.lua"
       ]
     }
   ],
