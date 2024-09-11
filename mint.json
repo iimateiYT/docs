@@ -15,7 +15,6 @@
       "to": "#07C983"
     }
   },
-  "topbarLinks": [],
   "topbarCtaButton": {
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
@@ -38,12 +37,6 @@
       "group": "Get Started",
       "pages": [
         "introduction"
-      ]
-    },
-    {
-      "group": "Scripts",
-      "pages": [
-        "custom modifiers"
       ]
     },
     {
