@@ -9,7 +9,7 @@
   "colors": {
     "primary": "#de5858",
     "light": "#fc6060",
-    "dark": "#de5858",
+    "dark": "#de5858"
   },
   "topbarCtaButton": {
     "name": "Dashboard",
