@@ -29,9 +29,9 @@
         "functions",
         "checks",
         "values",
+        "information",
         "example",
-        "source",
-        "information"
+        "source"
       ]
     }
   ],
