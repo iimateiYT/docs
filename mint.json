@@ -25,7 +25,9 @@
     {
       "group": "Doors Custom Modifiers",
       "pages": [
-        "documentations"
+        "documentations",
+        "source",
+        "example"
       ]
     }
   ],
