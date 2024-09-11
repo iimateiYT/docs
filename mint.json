@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Custom Modifiers",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/Icon.png",
+    "light": "/Icon.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
