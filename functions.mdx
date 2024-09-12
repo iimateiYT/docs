@@ -62,6 +62,93 @@ Updates all modifiers and categories for the current floor.
 CustomModifiers:UpdateFloorStuff()
 ```
 
+### DeleteModifier
+Modifier to delete.
+
+<ParamField path="Modifier" type="String" required>
+  Target modifier to delete.
+</ParamField>
+<ParamField path="All" type="Boolean">
+  Delete every single modifier.
+</ParamField>
+
+
+```lua
+CustomModifiers:DeleteModifier("Example", false)
+```
+
+### DeleteCategory
+Category to delete.
+
+<ParamField path="Category" type="String" required>
+  Target category to delete.
+</ParamField>
+<ParamField path="All" type="Boolean">
+  Delete every single category.
+</ParamField>
+
+
+```lua
+CustomModifiers:DeleteCategory("Example Category", false)
+```
+
+### DeleteFloor
+Floor to delete.
+
+<ParamField path="Floor" type="String" required>
+  Target floor to delete.
+</ParamField>
+
+
+```lua
+CustomModifiers:DeleteFloor("Example Floor")
+```
+
+### RestoreModifier
+Deleted modifier to restore.
+
+<ParamField path="Modifier" type="String" required>
+  Target modifier to restore.
+</ParamField>
+<ParamField path="All" type="Boolean">
+  Restore every single deleted modifier.
+</ParamField>
+
+
+```lua
+CustomModifiers:RestoreModifier("Example", false)
+```
+
+### RestoreCategory
+Deleted category to restore.
+
+<ParamField path="Category" type="String" required>
+  Target category to restore.
+</ParamField>
+<ParamField path="All" type="Boolean">
+  Restore every single deleted category.
+</ParamField>
+
+
+```lua
+CustomModifiers:RestoreCategory("Example Category", false)
+```
+
+### RestoreFloor
+Deleted floor to restore.
+
+<ParamField path="Floor" type="String" required>
+  Target floor to restore.
+</ParamField>
+<ParamField path="All" type="Boolean">
+  Restore every single deleted floor.
+</ParamField>
+
+
+```lua
+CustomModifiers:RestoreFloor("Example Floor", false)
+```
+
 ### CreateModifier
 Creates a custom modifier with the specified parameters.
 
